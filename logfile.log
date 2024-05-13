@@ -1,0 +1,48 @@
+2024-05-13 14:45:14,501 :INFO :test_Homepage :Home page Mouse hiver Activity Done:)
+2024-05-13 14:45:16,555 :INFO :test_Scrollpage_middle :Successfully Scrolled to the Middle of the Page:)))
+2024-05-13 14:45:18,580 :INFO :test_Scrollpage_down :Successfully Scrolled to the End of the Page:)))
+2024-05-13 14:45:19,183 :INFO :test_Emptycart :Checking the Empty Cart:))Your Amazon Cart is empty
+2024-05-13 14:45:46,027 :INFO :test_Videochecking :Video played Successfully:)))
+2024-05-13 14:45:54,025 :INFO :test_fresh_page :Fresh Page is Executed Successfully:)
+2024-05-13 14:45:54,987 :INFO :test_minitv_page :Getting MiniTv Page Title Assertion
+2024-05-13 14:45:58,651 :INFO :test_minitv_page :Minitv Page is Executed Successfully:)
+2024-05-13 14:46:01,961 :INFO :test_sell_page :Sell Page is Executed Successfully:)
+2024-05-13 14:46:03,264 :INFO :test_best_seller_page :Best Seller Page is Executed Successfully:)
+2024-05-13 14:46:04,724 :INFO :test_todays_deal_page :Today's Deal Page is Executed Successfully:)
+2024-05-13 14:46:10,756 :INFO :test_ProductSelecting :Sending The Product key!!!
+2024-05-13 14:46:17,868 :INFO :test_ProductSelecting :Selecting The Product!!!
+2024-05-13 14:46:18,069 :INFO :test_ProductSelecting :Adding The Product to the Cart!!!
+2024-05-13 14:46:24,921 :INFO :test_ProductSelecting :Successfully Mouse Hover Activity done:)
+2024-05-13 14:46:26,290 :INFO :test_ProductSelecting :Landed on Checkout page:))
+2024-05-13 14:59:51,423 :INFO :test_Homepage :Home page Mouse hiver Activity Done:)
+2024-05-13 14:59:53,970 :INFO :test_Scrollpage_middle :Successfully Scrolled to the Middle of the Page:)))
+2024-05-13 14:59:56,014 :INFO :test_Scrollpage_down :Successfully Scrolled to the End of the Page:)))
+2024-05-13 15:00:01,613 :INFO :test_Emptycart :Checking the Empty Cart:))Your Amazon Cart is empty
+2024-05-13 15:00:24,110 :INFO :test_Videochecking :Video played Successfully:)))
+2024-05-13 15:00:37,555 :INFO :test_fresh_page :Fresh Page is Executed Successfully:)
+2024-05-13 15:00:38,775 :INFO :test_minitv_page :Getting MiniTv Page Title Assertion
+2024-05-13 15:00:40,912 :INFO :test_minitv_page :Minitv Page is Executed Successfully:)
+2024-05-13 15:00:49,002 :INFO :test_sell_page :Sell Page is Executed Successfully:)
+2024-05-13 15:00:50,435 :INFO :test_best_seller_page :Best Seller Page is Executed Successfully:)
+2024-05-13 15:00:56,493 :INFO :test_todays_deal_page :Today's Deal Page is Executed Successfully:)
+2024-05-13 15:01:03,846 :INFO :test_ProductSelecting :Sending The Product key!!!
+2024-05-13 15:01:10,397 :INFO :test_ProductSelecting :Selecting The Product!!!
+2024-05-13 15:01:10,779 :INFO :test_ProductSelecting :Adding The Product to the Cart!!!
+2024-05-13 15:01:21,677 :INFO :test_ProductSelecting :Successfully Mouse Hover Activity done:)
+2024-05-13 15:01:23,051 :INFO :test_ProductSelecting :Landed on Checkout page:))
+2024-05-13 15:05:59,751 :INFO :test_Homepage :Home page Mouse hiver Activity Done:)
+2024-05-13 15:06:01,809 :INFO :test_Scrollpage_middle :Successfully Scrolled to the Middle of the Page:)))
+2024-05-13 15:06:03,836 :INFO :test_Scrollpage_down :Successfully Scrolled to the End of the Page:)))
+2024-05-13 15:06:05,236 :INFO :test_Emptycart :Checking the Empty Cart:))Your Amazon Cart is empty
+2024-05-13 15:06:33,772 :INFO :test_Videochecking :Video played Successfully:)))
+2024-05-13 15:06:46,628 :INFO :test_fresh_page :Fresh Page is Executed Successfully:)
+2024-05-13 15:06:47,662 :INFO :test_minitv_page :Getting MiniTv Page Title Assertion
+2024-05-13 15:06:49,744 :INFO :test_minitv_page :Minitv Page is Executed Successfully:)
+2024-05-13 15:06:52,656 :INFO :test_sell_page :Sell Page is Executed Successfully:)
+2024-05-13 15:06:54,692 :INFO :test_best_seller_page :Best Seller Page is Executed Successfully:)
+2024-05-13 15:06:57,817 :INFO :test_todays_deal_page :Today's Deal Page is Executed Successfully:)
+2024-05-13 15:07:05,864 :INFO :test_ProductSelecting :Sending The Product key!!!
+2024-05-13 15:07:13,252 :INFO :test_ProductSelecting :Selecting The Product!!!
+2024-05-13 15:07:13,504 :INFO :test_ProductSelecting :Adding The Product to the Cart!!!
+2024-05-13 15:07:20,806 :INFO :test_ProductSelecting :Successfully Mouse Hover Activity done:)
+2024-05-13 15:07:24,925 :INFO :test_ProductSelecting :Landed on Checkout page:))

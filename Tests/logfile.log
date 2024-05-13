@@ -1,0 +1,9 @@
+2024-05-12 21:23:56,994 :INFO :test_fresh_page :Getting Fresh Page Title Assertion
+2024-05-12 21:34:31,130 :INFO :test_minitv_page :Getting MiniTv Page Title Assertion
+2024-05-12 21:36:32,575 :INFO :test_minitv_page :Getting MiniTv Page Title Assertion
+2024-05-13 14:53:45,882 :INFO :test_fresh_page :Fresh Page is Executed Successfully:)
+2024-05-13 15:44:19,386 :INFO :test_ProductSelecting :Sending The Product key!!!
+2024-05-13 15:44:24,123 :INFO :test_ProductSelecting :Selecting The Product!!!
+2024-05-13 15:44:27,161 :INFO :test_ProductSelecting :Adding The Product to the Cart!!!
+2024-05-13 15:44:38,186 :INFO :test_ProductSelecting :Successfully Mouse Hover Activity done:)
+2024-05-13 15:44:40,473 :INFO :test_ProductSelecting :Landed on Checkout page:))
